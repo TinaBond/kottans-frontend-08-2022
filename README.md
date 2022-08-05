@@ -1,3 +1,4 @@
+bachgtound-color #ff00ff
 # kottans-frontend-08-2022
 
 workflow for course
@@ -17,6 +18,6 @@ _05/08/2022_
 - [x] пройшла 2 розділи на Coursera
 - [ ] пройти тренування на роботу з git 
 
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] all tasks are complete :tada:
 
 ![зображення котика](./img/image-rendered.png)
