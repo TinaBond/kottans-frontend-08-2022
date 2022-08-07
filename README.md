@@ -21,10 +21,10 @@ workflow for course :writing_hand: - dairy on Ukrainian
 - [ ] пройти [тренування](https://learngitbranching.js.org/) по роботі з командами git 
 > ###### *__UPD 07/08__* виявилось, що прогрес в тренажері не зберігається :astonished:
 ---------------------------
-_07/08/8022_
-> Coursera все така ж далека від того, щоб я зрозуміла про що там ідеться. Треба робити конспект. 
+###### _07/08/8022_
+Розуміння матеріалу на [Coursera](https://www.coursera.org/learn/introduction-git-github) все таке ж далеке від того, щоб я зрозуміла про що там ідеться. Пишу конспект.
 
 
 - [ ] all tasks are complete :tada:
 
-![зображення котика](./img/image-rendered.png)
+![зображення щктокотика](./img/image-rendered.png)
