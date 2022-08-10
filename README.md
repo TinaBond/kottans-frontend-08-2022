@@ -1,31 +1,34 @@
 ## Kottans-frontend-08-2022 ##
 
-workflow for course :writing_hand: - dairy on Ukrainian
-<br> [dairy on English]() - will be done
+workflow for course :writing_hand: - [Git-dairy шт Ukrainian](./dairy-task/)
+<br> Instagram-dairy in [English/Polish/Urkainian](https://www.instagram.com/tina.bond_your_admin/) 
 
 > :writing_hand::writing_hand::writing_hand:
-
-_01/08/2022_
-> В якийсь дивний спосіб розбираюсь з цим завданням. Цікаво, що тут можна формувати практично щоденник-журнал навчання. 
 ---------------------------
-_05/08/2022_
-> Вирішила все-таки серйозно підійти до того, щоб розібратись
->
-> Дивне відчуття: бачу текст, читаю його, але мало що можу зрозуміти з написаного 	:tired_face:
->
-> той, хто не робить помилок - не може навчитись. Навіть якщо я зроблю помилку в тому запиті - то не страшно. можна запитати у Baddy або в чаті студентів
+Program 
 
-- [x] до уже склонованої гілки у власному репозиторії додати свій коментар-привітання з картинкою. Текст написати згідно вимог Mаrkdown. 
-- [x] відправила pull requst (аж очі заплющувала від страху). 
-> *__UPD 07/08__*.Отримала коментарі по ПР - про вживання апострофа і про зміну розмірів зображень. 
-- [x] пройшла 2 розділи на Coursera 
-> *__UPD 07/08__* Мені здається, що спершу потрібно пройти першу частину по Pyton, щоб розуміти ті поняття. До того ж - переклад, як завжди гугл-перекладач для субтитрів заплутує ще більше :tired_face:
-- [ ] пройти тренування на роботу з git 
----------------------------
-_07/08/8022_
-> Coursera все така ж далека від того, щоб я зрозуміла про що там ідеться. Треба робити конспект. 
+Stage 0. Self-Study
 
+1. [Git Basics](./git-basics/)
+2. Linux CLI and Networking
+3. VCS (hello gitty), GitHub and Collaboration
+4. Front-End Basics
+5. Intro to HTML & CSS
+6. Responsive Web Design
+7. HTML & CSS Practice
+8. JavaScript Basics
+9. Document Object Model - practice
+10. Advanced Topics
+11. Building a Tiny JS World (pre-OOP) - practice
+12. Object oriented JS - practice
+13. OOP exercise - practice
+14. Offline Web Applications - optional
+15. Memory pair game — real project!
+16. Website Performance Optimization - optional
+17. Friends App - real project!
 
-- [ ] all tasks are complete :tada:
+Dedline for Stage 0 - 2022/10/01
+
+- [ ] Wiat, when all tasks are complete :tada:
 
 ![зображення котика](./img/image-rendered.png)
