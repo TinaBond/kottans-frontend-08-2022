@@ -1,13 +1,14 @@
-## Kottans-frontend-08-2022 ##
+# Kottans-frontend-08-2022
 
 workflow for course :writing_hand: - [Git-dairy шт Ukrainian](./dairy-task/)
 <br> Instagram-dairy in [English/Polish/Urkainian](https://www.instagram.com/tina.bond_your_admin/) 
 
 > :writing_hand::writing_hand::writing_hand:
----------------------------
+
 Program 
 
 Stage 0. Self-Study
+
 
 1. [Git Basics](./git-basics/)
 2. Linux CLI and Networking
@@ -31,4 +32,4 @@ Dedline for Stage 0 - 2022/10/01
 
 - [ ] Wiat, when all tasks are complete :tada:
 
-![зображення котика](./img/image-rendered.png)
+![зображення щктокотика](./img/image-rendered.png)
