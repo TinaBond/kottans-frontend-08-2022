@@ -1,6 +1,6 @@
 # Kottans-frontend-08-2022
 
-workflow for course :writing_hand: - [Git-dairy шт Ukrainian](./dairy-task/)
+workflow for course :writing_hand: - [Git-dairy on Ukrainian](./dairy-task/)
 <br> Instagram-dairy in [English/Polish/Urkainian](https://www.instagram.com/tina.bond_your_admin/) 
 
 > :writing_hand::writing_hand::writing_hand:
@@ -32,4 +32,4 @@ Dedline for Stage 0 - 2022/10/01
 
 - [ ] Wiat, when all tasks are complete :tada:
 
-![зображення щктокотика](./img/image-rendered.png)
+![зображення котика](./img/image-rendered.png)
