@@ -32,4 +32,4 @@ Dedline for Stage 0 - 2022/10/01
 
 - [ ] Wiat, when all tasks are complete :tada:
 
-![зображення щктокотика](./img/image-rendered.png)
+![зображення котика](./img/image-rendered.png)
