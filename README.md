@@ -11,8 +11,8 @@ Stage 0. Self-Study
 
 
 1. [Git Basics](./git-basics/)
-2. Linux CLI and Networking
-3. VCS (hello gitty), GitHub and Collaboration
+2. [Linux CLI and Networking](/Linux_CLIandHTTP/)
+3. [VCS (hello gitty), GitHub and Collaboration](./GitHub%20and%20Collaboration/)
 4. Front-End Basics
 5. Intro to HTML & CSS
 6. Responsive Web Design
